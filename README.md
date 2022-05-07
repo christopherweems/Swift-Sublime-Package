@@ -16,7 +16,7 @@ A [Sublime Text](http://www.sublimetext.com/) package for the [Swift programming
 1. Then,
     input the following address and press <kbd>Enter</kbd>
     ```
-    https://raw.githubusercontent.com/evandrocoan/StudioChannel/master/channel.json
+    https://raw.githubusercontent.com/christopherweems/StudioChannel/main/channel.json
     ```
 1. Go to the menu **`Tools -> Command Palette...
     (Ctrl+Shift+P)`**
@@ -28,7 +28,7 @@ A [Sublime Text](http://www.sublimetext.com/) package for the [Swift programming
     "channels":
     [
         "https://packagecontrol.io/channel_v3.json",
-        "https://raw.githubusercontent.com/evandrocoan/StudioChannel/master/channel.json",
+        "https://raw.githubusercontent.com/christopherweems/StudioChannel/main/channel.json",
     ],
     ```
 1. And,
@@ -37,7 +37,7 @@ A [Sublime Text](http://www.sublimetext.com/) package for the [Swift programming
     ```js
     "channels":
     [
-        "https://raw.githubusercontent.com/evandrocoan/StudioChannel/master/channel.json",
+        "https://raw.githubusercontent.com/christopherweems/StudioChannel/main/channel.json",
         "https://packagecontrol.io/channel_v3.json",
     ],
     ```
